@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603089208392",
+    "project_id": "ecotahu-ed1e0",
+    "storage_bucket": "ecotahu-ed1e0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603089208392:android:91f0792e85c443f097c47d",
+        "android_client_info": {
+          "package_name": "com.example.ecotahumobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603089208392-mt7t23cooivd3nd37qugmengkimt4pgh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPpHkEx_BmkjvJs8yizIyIs9PlyUjYQC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603089208392-mt7t23cooivd3nd37qugmengkimt4pgh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
